@@ -1,0 +1,97 @@
+h1 {
+  color: #3f3d56;
+  text-align: center;
+  font-family: Dosis;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 span {
+  color: #ee24ff;
+  font-family: Dosis;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+p {
+  color: #828282;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  width: 470px;
+  margin: 0 auto;
+}
+
+p strong {
+  color: #3f3d56;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+p span {
+  color: #828282;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 22px;
+}
+
+#footer a {
+  color: #3f3d56;
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 147.682%;
+  text-decoration: none;
+}
+
+#footer a + a {
+  margin-left: 42px;
+}
+
+#girl {
+  margin-bottom: 32px;
+}
+
+#hero {
+  width: 540px;
+  margin: 64px auto 64px;
+}
+
+#wave {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 104px;
+  left: 0;
+}
+
+#line {
+  width: 391px;
+  height: 0px;
+  border: 1px solid #e8e6ea;
+  margin-top: 64px;
+  margin-bottom: 16px;
+  margin-left: auto;
+  margin-right: auto;
+}
